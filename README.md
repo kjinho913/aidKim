@@ -1,3 +1,3 @@
 # aidKim
-Kimaid의 첫번째 깃 작성
-commit이 안보임
+* Kimaid의 첫번째 깃 작성
+* commit이 안보임
